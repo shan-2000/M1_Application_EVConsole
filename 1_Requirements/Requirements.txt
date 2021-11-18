@@ -1,3 +1,5 @@
+These are the following requirements for the project.
+
 HLR:
 1. Speedometer
 2. State of charge display
