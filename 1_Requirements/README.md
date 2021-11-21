@@ -12,7 +12,7 @@ where, X axis represents cost in 1000 RS per unit, Y axis represents Features in
 
 ## Defining Our System, 
 
-    -- TBD
+   The considered system is an application which can be implemented in 4_Wheelers 
 ## SWOT ANALYSIS
 ![SWOT-Sample](https://drive.google.com/file/d/107aO1eomjv0lrxPrjjBq-5hLWttqSuBi/view?usp=sharing)
 
