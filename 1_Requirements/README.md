@@ -40,10 +40,33 @@ This product can be mounted in front of the driver so that the driver will have 
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
+1. Speedometer
+2. State of charge display
+3. Mode of ride
+4. FNR
+5. torque produced
+6. Odometer
+7. Warnings in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
+1. Speedometer:
+  * output int speed at wheel in RPM 
+  * input int speed at wheel in RPM
+  * input floatGear Ratio  
+  
+2. State of charge display
+  * input Voltage
+  * input current
+  * output backup time
+  
+3. Mode of ride
+  * Crusing
+  * sports
+  * eco mode
+4. FNR
+  * Forward 
+  * Neutral
+  * Revers in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
