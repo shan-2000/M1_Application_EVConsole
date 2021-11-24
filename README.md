@@ -7,6 +7,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 [![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
 
+[![Code Quality - Static Code - Cppcheck](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml)
 
 ## Folder Structure
 Folder             | Description
