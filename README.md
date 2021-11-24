@@ -9,6 +9,8 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml)
 
+[![Unit Testing - Unity](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
