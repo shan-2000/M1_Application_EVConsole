@@ -12,6 +12,14 @@
 #include<math.h>
 #include<stdbool.h>
 
+int gearRatio = 12;
+float radius = 0.2794;
+float accelerationTiming = 7;
+float Mass = 2746.8;
+float pi = M_PI;
+int Voltage = 48;
+int CurrentCapacity = 100;
+float Torque;
 /**
 *  adds the operand1 and operand2 and returns the result
 * @param[in] operand1 

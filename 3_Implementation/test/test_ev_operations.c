@@ -10,7 +10,7 @@
 // void test_subtract(void);
 // void test_multiply(void);
 // void test_divide(void);
-float Fspeed(void);
+float Fspeed(int WRPM, char Gear);
 /* Required by the unity test framework */
 void setUp(){}
 /* Required by the unity test framework */
@@ -35,11 +35,11 @@ int main()
 /* Write all the test functions */ 
 
 
-void test_Fspeed(void) {
+void test_Fspeed(int A, char B) {
   TEST_ASSERT_EQUAL(10.53 , Fspeed(200, 'F'));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(10.53 , Fspeed(300, 'F'));
+  //TEST_ASSERT_EQUAL(10.53 , Fspeed(300, 'F'));
 }
 
 

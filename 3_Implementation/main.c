@@ -1,4 +1,4 @@
-#include <ev_operations.h>
+#include <C:\Users\HAI\OneDrive\Documents\GitHub\M1_Application_EVConsole\3_Implementation\inc\ev_operations.h>
 
 /* Status of the operation requested */
 #define VALID   (1)
@@ -9,14 +9,7 @@ unsigned int ev_operation = 0;
 
 /* Operands on which calculation is performed */
 //Global Variable
-int gearRatio = 12;
-float radius = 0.2794;
-float accelerationTiming = 7;
-float Mass = 2746.8;
-float pi = M_PI;
-int Voltage = 48;
-int CurrentCapacity = 100;
-float Torque;
+
 
 
 /* Display the menu of operations supported */
