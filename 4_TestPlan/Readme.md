@@ -12,6 +12,6 @@
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  L_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  L_03       |The Maximum reverse speed is 20 KMPH which corresponds to |  ------------|-------------|----------------|Boundary based    |
+|  L_01       |Speedometer                                                   |WheelRPM as 200 and Gear as F|10 kmph The speed is in limit|10 kmph The speed is in limit|Requirement based |
+|  L_02       |When the vehicle is in neutral the WheelRPM should be zero or else error message should appear|WheelRPM as 2 and Gear as N|CAUTION...! Hand Break Alarm|CAUTION...! Hand Break Alarm|Scenario based    |
+|  L_03       |The Maximum reverse speed is 20 KMPH which corresponds to WheelRPM as 380 |  WheelRPM as 390 and Gear as R|High Reverse Speed|High Reverse Speed|Boundary based    |
