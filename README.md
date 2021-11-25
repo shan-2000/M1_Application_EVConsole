@@ -5,11 +5,11 @@ Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
+[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) |[![Code Quality - Static Code - Cppcheck](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml)| [![Unit Testing - Unity](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml)
 
-[![Unit Testing - Unity](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml)
+
+
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/beecbcddc581497a8200f653d8610ef6)](https://www.codacy.com/gh/shan-2000/M1_Application_EVConsole/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shan-2000/M1_Application_EVConsole&amp;utm_campaign=Badge_Grade)
 
