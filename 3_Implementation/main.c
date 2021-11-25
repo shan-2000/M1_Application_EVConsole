@@ -1,4 +1,4 @@
-#include <C:\Users\HAI\OneDrive\Documents\GitHub\M1_Application_EVConsole\3_Implementation\inc\ev_operations.h>
+#include "ev_operations.h"
 
 /* Status of the operation requested */
 #define VALID   (1)
