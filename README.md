@@ -3,9 +3,9 @@ Electric vehicle console project with speed monitor from both motor and wheel
 
 Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | Codacy Badge
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) |[![Code Quality - Static Code - Cppcheck](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml)| [![Unit Testing - Unity](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml)| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/beecbcddc581497a8200f653d8610ef6)](https://www.codacy.com/gh/shan-2000/M1_Application_EVConsole/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shan-2000/M1_Application_EVConsole&amp;utm_campaign=Badge_Grade)
+ Code Quality | Unity | Codacy Badge
+----------|-------|--------------
+ |[![Code Quality - Static Code - Cppcheck](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/cppcheck.yml)| [![Unit Testing - Unity](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml)| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/beecbcddc581497a8200f653d8610ef6)](https://www.codacy.com/gh/shan-2000/M1_Application_EVConsole/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shan-2000/M1_Application_EVConsole&amp;utm_campaign=Badge_Grade)
 
 
 
