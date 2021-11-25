@@ -76,11 +76,31 @@ This product can be mounted in front of the driver so that the driver will have 
 
 ![HLR](https://user-images.githubusercontent.com/45603597/143454639-fb901e34-44f6-4ee3-943b-794de3a074a7.png)
 
+# EVConsole Running Video
+
+
+
+https://user-images.githubusercontent.com/45603597/143457020-36bc49fa-c19f-415b-85e1-280e46a90de8.mp4
+
+
 
 
 ## Low Level Design 
 
 
 ![LLR](https://user-images.githubusercontent.com/45603597/143453601-d0057479-ab83-4f5a-9eca-b622c1eda1cb.png)
+
+# EVConsole Running Video
+
+
+
+https://user-images.githubusercontent.com/45603597/143457020-36bc49fa-c19f-415b-85e1-280e46a90de8.mp4
+
+
+
+# Reference
+
+
+[Click Here for Reference](https://what-when-how.com/automobile/complete-vehicle-control-systems-automobile/)
 
 
