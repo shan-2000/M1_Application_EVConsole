@@ -52,7 +52,7 @@ This product can be mounted in front of the driver so that the driver will have 
 |-------|-----------------------------------------|---------------------|
 | HLR01 |Speedometer                              |Implemented          |
 | HLR01 |State of charge display                  |Implemented          |
-| HLR03 |Mode of ride |Future                     |Implemented          |
+| HLR03 |Mode of ride                             |Implemented          |
 | HLR04 | FNR                                     |Implemented          |
 | HLR04 | torque produced                         |Implemented          |
 | HLR04 | Odometer                                |Implemented          |
