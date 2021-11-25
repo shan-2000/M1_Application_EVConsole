@@ -11,6 +11,8 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 [![Unit Testing - Unity](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml/badge.svg)](https://github.com/shan-2000/M1_Application_EVConsole/actions/workflows/unity.yml)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/beecbcddc581497a8200f653d8610ef6)](https://www.codacy.com/gh/shan-2000/M1_Application_EVConsole/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=shan-2000/M1_Application_EVConsole&amp;utm_campaign=Badge_Grade)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
