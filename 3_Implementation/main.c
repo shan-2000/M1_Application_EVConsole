@@ -32,7 +32,7 @@ void main()
    {
       int Condition= StartVehicle(VehicleCondition);
       printf("\nEnter the gear (F N R): ");
-      scanf("%s",&InputGear);
+      scanf("%c",&InputGear);
       char SelectedGear = GearIndicator(InputGear);
       printf("%c",SelectedGear);
 
