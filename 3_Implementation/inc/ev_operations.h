@@ -11,6 +11,11 @@
 #include<stdlib.h>
 #include<math.h>
 #include<stdbool.h>
+//s
+
+//suj
+
+//sas
 
 int gearRatio = 12;
 float radius = 0.2794;
